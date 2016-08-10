@@ -1,0 +1,266 @@
+﻿'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.ApplicationServices\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.ApplicationServices.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: Domain 2): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.ApplicationServices\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.ApplicationServices.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Caching\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Caching.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Caching\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Runtime.Caching.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.Build.Utilities.v4.0\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.Build.Utilities.v4.0.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.Build.Utilities.v4.0\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.Build.Utilities.v4.0.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.JScript\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.JScript.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.WebPages.Deployment\v4.0_2.0.0.0__31bf3856ad364e35\System.Web.WebPages.Deployment.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.Web.PageInspector.Loader\v4.0_1.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Web.PageInspector.Loader.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.Services\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.IdentityModel\v4.0_4.0.0.0__b77a5c561934e089\System.IdentityModel.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Activation\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Activation.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Web\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Web.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Activities\v4.0_4.0.0.0__31bf3856ad364e35\System.Activities.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Activities\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Activities.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.WorkflowServices\v4.0_4.0.0.0__31bf3856ad364e35\System.WorkflowServices.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.Extensions\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.Extensions.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Data.DataSetExtensions\v4.0_4.0.0.0__b77a5c561934e089\System.Data.DataSetExtensions.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.ComponentModel.DataAnnotations\v4.0_4.0.0.0__31bf3856ad364e35\System.ComponentModel.DataAnnotations.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.DynamicData\v4.0_4.0.0.0__31bf3856ad364e35\System.Web.DynamicData.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\ade4da84\ca6e0a03_5d3dd101\EntityFramework.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\b024d9a6\b8910c03_5d3dd101\EntityFramework.SqlServer.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\a7ef88bb\de029af3_5c3dd101\Microsoft.AspNet.Identity.Core.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\23dc7915\a50f3803_5d3dd101\Microsoft.AspNet.Identity.EntityFramework.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\11636738\4e2bd2f3_5c3dd101\Microsoft.AspNet.Identity.Owin.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\b39e1adb\2fc9666f_5d3dd101\Microsoft.Owin.Cors.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\eedc2fb9\62d92145_5d3dd101\Microsoft.Owin.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\aac425fe\5fb72845_5d3dd101\Microsoft.Owin.Host.SystemWeb.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\9cc74f2e\9100aef3_5c3dd101\Microsoft.Owin.Security.Cookies.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\f79715c1\3bdfd889_5d3dd101\Microsoft.Owin.Security.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\73dcdb47\9acbac6a_1642d101\Microsoft.Owin.Security.Jwt.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\5bda8c29\6ce8dd89_5d3dd101\Microsoft.Owin.Security.OAuth.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\d29483e1\33c5f51b_a54fd101\Newtonsoft.Json.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\ff5fd0bc\ff9a9cf3_5c3dd101\Owin.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\20bea093\7396021c_a54fd101\SendGrid.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\796d6144\0357df1b_a54fd101\SendGrid.SmtpApi.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\4012b6ed\e3a7031c_a54fd101\SendGridMail.dll'. Module was built without symbols.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\fbf8fc35\10c482cd_923dd101\System.IdentityModel.Tokens.Jwt.dll'. Symbols loaded.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\3d6c5a41\f0817f2e_5d3dd101\System.Net.Http.Formatting.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\f0e769aa\14d302ae_8a47d101\System.Web.Cors.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\b190323b\09d034ae_8a47d101\System.Web.Http.Cors.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\88cbc513\5294892e_5d3dd101\System.Web.Http.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\6b631a08\0bd68f2e_5d3dd101\System.Web.Http.Owin.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\1e6a5e4d\93f4c767_713dd101\System.Web.Http.WebHost.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\f3b29795\66c07df2_b652d101\test_webApiIdentity2.dll'. Symbols loaded.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\Users\appdev1\AppData\Local\Temp\Temporary ASP.NET Files\root\8db9da91\30d3a77a\assembly\dl3\8aa741ca\10164f04_933dd101\Thinktecture.IdentityModel.Core.dll'. Symbols loaded.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.WebPages.Deployment\v4.0_1.0.0.0__31bf3856ad364e35\System.Web.WebPages.Deployment.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.Web.PageInspector.Runtime\v4.0_2.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Web.PageInspector.Runtime.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.Web.Infrastructure\v4.0_1.0.0.0__31bf3856ad364e35\Microsoft.Web.Infrastructure.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Internals\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Internals.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Net.Http\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Net.Http.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'Anonymously Hosted DynamicMethods Assembly'. 
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.Build.Framework\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.Build.Framework.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.DirectoryServices.Protocols\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.DirectoryServices.Protocols.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.DirectoryServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.DirectoryServices.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Data.SqlXml\v4.0_4.0.0.0__b77a5c561934e089\System.Data.SqlXml.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Security\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Security.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.DurableInstancing\v4.0_4.0.0.0__31bf3856ad364e35\System.Runtime.DurableInstancing.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Messaging\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Messaging.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.Transactions.Bridge\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.Transactions.Bridge.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Xaml.Hosting\v4.0_4.0.0.0__31bf3856ad364e35\System.Xaml.Hosting.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.VisualBasic.Activities.Compiler\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualBasic.Activities.Compiler.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Workflow.ComponentModel\v4.0_4.0.0.0__31bf3856ad364e35\System.Workflow.ComponentModel.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Workflow.Activities\v4.0_4.0.0.0__31bf3856ad364e35\System.Workflow.Activities.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Workflow.Runtime\v4.0_4.0.0.0__31bf3856ad364e35\System.Workflow.Runtime.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Data.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Data.Linq.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Net.Http.WebRequest\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Net.Http.WebRequest.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.Web.PageInspector.Tracing\v4.0_2.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Web.PageInspector.Tracing.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_32\System.Data.OracleClient\v4.0_4.0.0.0__b77a5c561934e089\System.Data.OracleClient.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'C:\windows\Microsoft.Net\assembly\GAC_MSIL\System.Dynamic\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Dynamic.dll'. Cannot find or open the PDB file.
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'EntityFrameworkDynamicProxies-EntityFramework'. 
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'EntityFrameworkDynamicProxies-test_webApiIdentity2'. 
+'iisexpress.exe' (CLR v4.0.30319: /LM/W3SVC/67/ROOT-1-130976809914068070): Loaded 'EntityFrameworkDynamicProxies-Microsoft.AspNet.Identity.EntityFramework'. 
+The thread 0xf2d8 has exited with code 259 (0x103).
+The thread 0xf75c has exited with code 259 (0x103).
+The thread 0xc460 has exited with code 259 (0x103).
+The thread 0xf3e8 has exited with code 259 (0x103).
+The thread 0xe94c has exited with code 259 (0x103).
+The thread 0xf4b4 has exited with code 259 (0x103).
+The thread 0xb724 has exited with code 259 (0x103).
+The thread 0xe8dc has exited with code 259 (0x103).
+The thread 0xf774 has exited with code 259 (0x103).
+The thread 0xdb84 has exited with code 259 (0x103).
+The thread 0xe2f0 has exited with code 259 (0x103).
+The thread 0xc63c has exited with code 259 (0x103).
+The thread 0xb008 has exited with code 259 (0x103).
+The thread 0xe524 has exited with code 259 (0x103).
+The thread 0xf4ec has exited with code 259 (0x103).
+The thread 0xf5c8 has exited with code 259 (0x103).
+The thread 0xca14 has exited with code 259 (0x103).
+The thread 0xef38 has exited with code 259 (0x103).
+The thread 0xebe8 has exited with code 259 (0x103).
+The thread 0xf4f8 has exited with code 259 (0x103).
+The thread 0xea5c has exited with code 259 (0x103).
+The thread 0xe2c0 has exited with code 259 (0x103).
+The thread 0xe4f0 has exited with code 259 (0x103).
+The thread 0xec14 has exited with code 259 (0x103).
+The thread 0xe8ec has exited with code 259 (0x103).
+The thread 0xf0c0 has exited with code 259 (0x103).
+The thread 0xe8f4 has exited with code 259 (0x103).
+The thread 0xec38 has exited with code 259 (0x103).
+The thread 0x21a4 has exited with code 259 (0x103).
+The thread 0xf15c has exited with code 259 (0x103).
+The thread 0xf604 has exited with code 259 (0x103).
+The thread 0xf0a0 has exited with code 259 (0x103).
+The thread 0xf7d8 has exited with code 259 (0x103).
+The thread 0xf7e4 has exited with code 259 (0x103).
+The thread 0xea08 has exited with code 259 (0x103).
+The thread 0xb3bc has exited with code 259 (0x103).
+The thread 0xf4e4 has exited with code 259 (0x103).
+The thread 0xf5cc has exited with code 259 (0x103).
+The thread 0xf2e4 has exited with code 259 (0x103).
+The thread 0xf7e0 has exited with code 259 (0x103).
+The thread 0x2138 has exited with code 259 (0x103).
+The thread 0xea20 has exited with code 259 (0x103).
+The thread 0xf4bc has exited with code 259 (0x103).
+The thread 0xede0 has exited with code 259 (0x103).
+The thread 0xf148 has exited with code 259 (0x103).
+The thread 0x9640 has exited with code 259 (0x103).
+The thread 0xbbe0 has exited with code 259 (0x103).
+The thread 0xf144 has exited with code 259 (0x103).
+The thread 0xeae8 has exited with code 259 (0x103).
+The thread 0xcce4 has exited with code 259 (0x103).
+The thread 0xf020 has exited with code 259 (0x103).
+The thread 0xc190 has exited with code 259 (0x103).
+The thread 0xcdf0 has exited with code 259 (0x103).
+The thread 0xf66c has exited with code 259 (0x103).
+The thread 0xca94 has exited with code 259 (0x103).
+The thread 0x200c has exited with code 259 (0x103).
+The thread 0xf6c0 has exited with code 259 (0x103).
+The thread 0xf3c8 has exited with code 259 (0x103).
+The thread 0xc0b0 has exited with code 259 (0x103).
+The thread 0xca54 has exited with code 259 (0x103).
+The thread 0xf564 has exited with code 259 (0x103).
+The thread 0xce90 has exited with code 259 (0x103).
+The thread 0xf324 has exited with code 259 (0x103).
+The thread 0xed50 has exited with code 259 (0x103).
+The thread 0xf628 has exited with code 259 (0x103).
+The thread 0xc344 has exited with code 259 (0x103).
+The thread 0xf390 has exited with code 259 (0x103).
+The thread 0xf1a8 has exited with code 259 (0x103).
+The thread 0xef84 has exited with code 259 (0x103).
+The thread 0xf4d4 has exited with code 259 (0x103).
+The thread 0xd5a4 has exited with code 259 (0x103).
+The thread 0xf76c has exited with code 259 (0x103).
+The thread 0xf330 has exited with code 259 (0x103).
+The thread 0xf088 has exited with code 259 (0x103).
+The thread 0xe2f0 has exited with code 259 (0x103).
+The thread 0xf3dc has exited with code 259 (0x103).
+The thread 0xf698 has exited with code 259 (0x103).
+The thread 0xf368 has exited with code 259 (0x103).
+The thread 0xf4c4 has exited with code 259 (0x103).
+The thread 0xbf18 has exited with code 259 (0x103).
+The thread 0xf440 has exited with code 259 (0x103).
+The thread 0xe824 has exited with code 259 (0x103).
+The thread 0xec98 has exited with code 259 (0x103).
+The thread 0xf7e4 has exited with code 259 (0x103).
+The thread 0xb008 has exited with code 259 (0x103).
+The thread 0xe370 has exited with code 259 (0x103).
+The thread 0xb67c has exited with code 259 (0x103).
+The thread 0xd530 has exited with code 259 (0x103).
+The thread 0xcfd4 has exited with code 259 (0x103).
+The thread 0xcfc4 has exited with code 259 (0x103).
+The thread 0xcce4 has exited with code 259 (0x103).
+The thread 0xf720 has exited with code 259 (0x103).
+The thread 0xf740 has exited with code 259 (0x103).
+The thread 0xc344 has exited with code 259 (0x103).
+The thread 0xf6b4 has exited with code 259 (0x103).
+The thread 0xcda0 has exited with code 259 (0x103).
+The thread 0xe300 has exited with code 259 (0x103).
+The thread 0xf4ec has exited with code 259 (0x103).
+The thread 0xf5a4 has exited with code 259 (0x103).
+The thread 0xf3f4 has exited with code 259 (0x103).
+The thread 0xe3d4 has exited with code 259 (0x103).
+The thread 0xf0c0 has exited with code 259 (0x103).
+The thread 0xe890 has exited with code 259 (0x103).
+The thread 0xf12c has exited with code 259 (0x103).
+The thread 0xf490 has exited with code 259 (0x103).
+The thread 0xefc0 has exited with code 259 (0x103).
+The thread 0xfa88 has exited with code 259 (0x103).
+The thread 0x4324 has exited with code 259 (0x103).
+The thread 0xff74 has exited with code 259 (0x103).
+The thread 0xe7b4 has exited with code 259 (0x103).
+The thread 0xfef0 has exited with code 259 (0x103).
+The thread 0xfc88 has exited with code 259 (0x103).
+The thread 0xf994 has exited with code 259 (0x103).
+The thread 0xc014 has exited with code 259 (0x103).
+The thread 0xf5e0 has exited with code 259 (0x103).
+The thread 0xfa84 has exited with code 259 (0x103).
+The thread 0xfd24 has exited with code 259 (0x103).
+The thread 0xfb88 has exited with code 259 (0x103).
+The thread 0xfaa0 has exited with code 259 (0x103).
+The thread 0xfb18 has exited with code 259 (0x103).
+The thread 0xf2d0 has exited with code 259 (0x103).
+The thread 0xecac has exited with code 259 (0x103).
+The thread 0xc0d4 has exited with code 259 (0x103).
+The thread 0xb060 has exited with code 259 (0x103).
+The thread 0xca14 has exited with code 259 (0x103).
+The thread 0xf0f0 has exited with code 259 (0x103).
+The thread 0xfc20 has exited with code 259 (0x103).
+The thread 0xfb9c has exited with code 259 (0x103).
+The thread 0xea50 has exited with code 259 (0x103).
+The thread 0xff18 has exited with code 259 (0x103).
+The thread 0xf19c has exited with code 259 (0x103).
+The thread 0xfecc has exited with code 259 (0x103).
+The thread 0xfbd8 has exited with code 259 (0x103).
+The thread 0xc63c has exited with code 259 (0x103).
+The thread 0xc054 has exited with code 259 (0x103).
+The thread 0xffb4 has exited with code 259 (0x103).
+The thread 0xfb84 has exited with code 259 (0x103).
+The thread 0xe8b8 has exited with code 259 (0x103).
+The thread 0xdf7c has exited with code 259 (0x103).
+The thread 0xffec has exited with code 259 (0x103).
+The thread 0xe8f8 has exited with code 259 (0x103).
+The thread 0xfed4 has exited with code 259 (0x103).
+The thread 0xe2e8 has exited with code 259 (0x103).
+The thread 0xfa8c has exited with code 259 (0x103).
+The thread 0xfd38 has exited with code 259 (0x103).
+The thread 0xe2c8 has exited with code 259 (0x103).
+The thread 0xea7c has exited with code 259 (0x103).
+The thread 0xfbb0 has exited with code 259 (0x103).
+The thread 0xeb70 has exited with code 259 (0x103).
+The thread 0xfe9c has exited with code 259 (0x103).
+The thread 0xfcd8 has exited with code 259 (0x103).
+The thread 0xf8b0 has exited with code 259 (0x103).
+The thread 0x23e4 has exited with code 259 (0x103).
+The thread 0xffb0 has exited with code 259 (0x103).
+The thread 0xfb48 has exited with code 259 (0x103).
+The thread 0xfb7c has exited with code 259 (0x103).
+The thread 0xee7c has exited with code 259 (0x103).
+The thread 0xfb1c has exited with code 259 (0x103).
+The thread 0xfd90 has exited with code 259 (0x103).
+The thread 0xff84 has exited with code 259 (0x103).
+The thread 0xff48 has exited with code 259 (0x103).
+The thread 0xf9b4 has exited with code 259 (0x103).
+The thread 0xb854 has exited with code 259 (0x103).
+The thread 0xf82c has exited with code 259 (0x103).
+The thread 0xfb60 has exited with code 259 (0x103).
+The thread 0xfad0 has exited with code 259 (0x103).
+The thread 0xc3fc has exited with code 259 (0x103).
+The thread 0xfa2c has exited with code 259 (0x103).

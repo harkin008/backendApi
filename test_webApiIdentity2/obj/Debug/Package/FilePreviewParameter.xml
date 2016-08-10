@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="test_webApiIdentity2" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\appdev1\\documents\\visual\ studio\ 2013\\Projects\\test_webApiIdentity2\\test_webApiIdentity2\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\appdev1\\documents\\visual\ studio\ 2013\\Projects\\test_webApiIdentity2\\test_webApiIdentity2\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Add write permission to App_Data Folder" description="Add write permission to App_Data folder" value="test_webApiIdentity2/App_Data" tags="Hidden">
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\appdev1\\documents\\visual\ studio\ 2013\\Projects\\test_webApiIdentity2\\test_webApiIdentity2\\obj\\Debug\\Package\\PackageTmp\\App_Data$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=(LocalDB)\v11.0;AttachDbFilename=&quot;C:\Users\appdev1\Documents\Visual Studio 2013\Projects\test_webApiIdentity2\test_webApiIdentity2\App_Data\identityDbase.mdf&quot;;Integrated Security=True;Connect Timeout=30" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\appdev1\\documents\\visual\ studio\ 2013\\Projects\\test_webApiIdentity2\\test_webApiIdentity2\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>
